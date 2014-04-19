@@ -2,7 +2,7 @@
 
 A simple and noble theme based on [Noderce](https://github.com/willerce/hexo-theme-noderce) for hexo.
 
-- [Demo](http://jiabin.tk/)
+- [Demo](http://jiabin.tk/2014/04/19/a-simple-and-noble-theme-for-hexo/)
 
 ## Install
 
