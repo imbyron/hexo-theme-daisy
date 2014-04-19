@@ -1,0 +1,25 @@
+<div class="pagination">
+  <table width='100%'>
+    <tbody>
+    <tr>
+      <td width='120' align='left'>
+        <% if (page.prev){ %>
+        <div class="alignleft">
+          <a href="<%- config.root %><%- page.prev_link %>" class="alignleft prev">‹ <%= __('prev') %></a>
+        </div>
+        <% } %>
+      </td>
+      <td width='auto' align='center'>
+          <a href="<%- config.root %>archives/">文章归档</a>
+      </td>
+      <td width='120' align='right'>
+        <% if (page.next){ %>
+        <div class="alignright">
+          <a href="<%- config.root %><%- page.next_link %>" class="alignright next"><%= __('next') %> ›</a>
+        </div>
+        <% } %>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
