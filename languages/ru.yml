@@ -6,6 +6,6 @@ tweets: Твиты
 prev: Назад
 next: Вперед
 comment: Комментарии
-archive_a: Архив
-archive_b: Архив: %s
+archive_a: "Архив"
+archive_b: "Архив: %s"
 page: Страница %d
