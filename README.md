@@ -11,11 +11,11 @@ A simple and noble theme based on [Noderce](https://github.com/willerce/hexo-the
 
 
 ```
-git clone git@github.com:imbyron/hexo-theme-daisy.git themes/diasy
+git clone git@github.com:chenguanzhou/hexo-theme-daisy.git themes/diasy
 ```
 or
 ```
-git clone git@gitcafe.com:Byron/hexo-theme-daisy.git themes/diasy
+git clone git@gitcafe.com:chenguanzhou123/daisy.git themes/diasy
 ```
 ##Enable
 
