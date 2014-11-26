@@ -31,6 +31,7 @@ git pull
 ```
 
 ## Configuration
+### 注意：一定要修改多说评论的`short_name`，否则评论模块不会生效（发到了我的多说后台-_-）。
 
 ```
 menu:
