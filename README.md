@@ -9,14 +9,10 @@ A simple and noble theme based on [Noderce](https://github.com/willerce/hexo-the
 
 ## Install
 
+```
+git clone git@github.com:imbyron/hexo-theme-daisy.git themes/diasy
+```
 
-```
-git clone git@github.com:chenguanzhou/hexo-theme-daisy.git themes/diasy
-```
-or
-```
-git clone git@gitcafe.com:chenguanzhou123/daisy.git themes/diasy
-```
 ##Enable
 
 Modify `theme` setting in `_config.yml` to `diasy`.
