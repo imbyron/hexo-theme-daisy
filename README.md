@@ -45,5 +45,5 @@ rss: /atom.xml
 comment_provider: duoshuo
 # Duoshuo comment
 duoshuo:
-  short_name: jiabin
+  short_name:
 ```
