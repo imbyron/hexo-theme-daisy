@@ -3,9 +3,9 @@
 A simple and noble theme based on [Noderce](https://github.com/willerce/hexo-theme-noderce) for hexo.
 
 # demo
-- [Demo](http://googleyixia.com/2014/04/19/a-simple-and-noble-theme-for-hexo/)
+- [Demo](http://jiabin.tk/2014/04/19/a-simple-and-noble-theme-for-hexo/)
 
-![hexo_theme_demo](http://googleyixia.com/img/2014/hexo_theme_demo.jpg)
+![hexo_theme_demo](http://jiabin.tk/img/2014/hexo_theme_demo.jpg)
 
 ## Install
 
@@ -27,7 +27,6 @@ git pull
 ```
 
 ## Configuration
-### 注意：一定要修改多说评论的`short_name`，否则评论模块不会生效（不改就都发到了我的多说后台-_-）。
 
 ```
 menu:
@@ -45,5 +44,5 @@ rss: /atom.xml
 comment_provider: duoshuo
 # Duoshuo comment
 duoshuo:
-  short_name:
+  short_name: jiabin
 ```

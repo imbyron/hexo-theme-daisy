@@ -1,8 +1,8 @@
 menu:
   首页: /
   文章归档: /archives
-  相册: http://photo.googleyixia.com
   友情链接: /links
+  饭否: http://fanfou.com/sanqiuhaoyue
   关于: /about
 
 excerpt_link: 阅读全文 >
@@ -14,4 +14,4 @@ rss: /atom.xml
 comment_provider: duoshuo
 # Duoshuo comment
 duoshuo:
-  short_name: jiabin
+  short_name: 
