@@ -3,9 +3,9 @@
 A simple and noble theme based on [Noderce](https://github.com/willerce/hexo-theme-noderce) for hexo.
 
 # demo
-- [Demo](http://jiabin.tk/2014/04/19/a-simple-and-noble-theme-for-hexo/)
+- [Demo](http://googleyixia.com/2014/04/19/a-simple-and-noble-theme-for-hexo/)
 
-![hexo_theme_demo](http://jiabin.tk/img/2014/hexo_theme_demo.jpg)
+![hexo_theme_demo](http://googleyixia.com/img/2014/hexo_theme_demo.jpg)
 
 ## Install
 
@@ -33,6 +33,7 @@ menu:
   首页: /
   文章归档: /archives
   友情链接: /links
+  饭否: http://fanfou.com/sanqiuhaoyue
   关于: /about
 
 excerpt_link: 阅读全文 >
